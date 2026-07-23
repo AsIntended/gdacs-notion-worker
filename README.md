@@ -154,3 +154,13 @@ Build/dev commands:
 
 - `npm run check` — type-check only (no emit)
 - `npm run build` — compile TypeScript to `dist/`
+
+---
+
+## License
+
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.md). You're
+free to use, modify, and share this for any **noncommercial** purpose —
+personal projects, research, education, nonprofits, and government use all
+qualify. Commercial use is not permitted under this license.
+

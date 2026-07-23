@@ -2,6 +2,7 @@
 	"name": "gdacs-notion-worker",
 	"version": "1.0.0",
 	"description": "Notion Worker that syncs significant (Orange/Red) GDACS disaster alerts into a Notion-managed database.",
+	"license": "PolyForm-Noncommercial-1.0.0",
 	"private": true,
 	"type": "module",
 	"scripts": {
