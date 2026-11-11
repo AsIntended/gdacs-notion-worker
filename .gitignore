@@ -6,3 +6,6 @@ dist/
 node_modules/
 workers.*.json
 workers.json
+
+# Claude Code local settings (may contain approved commands with inline secrets)
+.claude/settings.local.json
